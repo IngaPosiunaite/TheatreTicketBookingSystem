@@ -13,7 +13,7 @@
 
 
 
-<h5>The interface ensure that users of the application to find the following information for any show:
+<h5>The application will let users browse shows/performances, search for specific shows or dates, select a number of tickets for show(s) for purchase, and to complete their purchase of those tickets. The interface ensure that users of the application to find the following information for any show:
 <h5>• The title of the show 
 <h5>• The type of show (theatre, musical, opera, concert)
 <h5>• A description 
