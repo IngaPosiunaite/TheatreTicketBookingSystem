@@ -1,4 +1,4 @@
-<h4> Theatr eBooking System
+<h4> Theatre Booking System
 
 
 <h5>The project was to create a new booking system for The Theatre Royal. The User Interface was text-based using the console. The theatre offers information regarding forthcoming shows, and allows people to purchase performance tickets online.
