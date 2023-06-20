@@ -1,12 +1,19 @@
 <h4> TheatreRoyalBookingSystem
 
 
-<h6>The project was to create a new booking system for The Theatre Royal. The User Interface was text-based using the console. The theatre offers information regarding forthcoming shows, and allows people to purchase performance tickets online.
-<h6>The interface ensure that users of the application to find the following information for any show:
-<h6>• The title of the show 
-<h6>• The type of show (theatre, musical, opera, concert)
-<h6>• A description 
-<h6>• When performances of the show are staged
-<h6>• The duration of a performance 
-<h6>• The price of tickets for a performance 
-<h6>• The availability of tickets for a performance.
+<h5>The project was to create a new booking system for The Theatre Royal. The User Interface was text-based using the console. The theatre offers information regarding forthcoming shows, and allows people to purchase performance tickets online.
+<h5>The interface ensure that users of the application to find the following information for any show:
+<h5>• The title of the show 
+<h5>• The type of show (theatre, musical, opera, concert)
+<h5>• A description 
+<h5>• When performances of the show are staged
+<h5>• The duration of a performance 
+<h5>• The price of tickets for a performance 
+<h5>• The availability of tickets for a performance.
+
+
+
+![TheatreBookingSystem](https://github.com/IngaPosiunaite/TheatreBookingSystem/assets/119749457/d5f78ff1-6d1f-445c-9fd1-838e4fbbe945)
+
+
+
